@@ -122,7 +122,7 @@
 
 ## TypeScript
 
-- Type Notation
+- **Type Notation**
 
   > <https://2ality.com/2018/04/type-notation-typescript.html>
 
@@ -321,10 +321,12 @@
 ## io-ts in TypeScript
 
 - **Decoding JSON with Typescript**
-  JSON decoders validate the JSON before it comes into our program. So if the data has an unexpected structure, we learn about it immediately. ><https://dev.to/joanllenas/decoding-json-with-typescript-1jjc>
+  JSON decoders validate the JSON before it comes into our program. So if the data has an unexpected structure, we learn about it immediately. 
+      ><https://dev.to/joanllenas/decoding-json-with-typescript-1jjc>
 
 - **An intro to decoders
-  Type-checking your boundaries** ><https://nvie.com/posts/introducing-decoders/>
+  Type-checking your boundaries** 
+    ><https://nvie.com/posts/introducing-decoders/>
 
 - **Tech Weeklies - Io-ts and Why You Should Want It**
 

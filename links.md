@@ -46,7 +46,8 @@
   > <https://1lib.in/book/1207641/4736fb>
 
 - **JavaScript Naming Conventions - RWieruch**
-  Introduction to JavaScript Naming Conventions for different data types and data structures in JS. ><https://www.robinwieruch.de/javascript-naming-conventions>
+  Introduction to JavaScript Naming Conventions for different data types and data structures in JS. 
+    ><https://www.robinwieruch.de/javascript-naming-conventions>
 
 - **JavaScript Coding Style**
 

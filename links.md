@@ -277,6 +277,9 @@
 
   > <https://youtube.com/watch?v=0XSDAup85SA&feature=share>
 
+- **Full React Tutorial #27 - Controlled Inputs (forms)** by net ninja
+  >https://youtube.com/watch?v=IkMND33x0qQ&feature=share
+
 - **Hooks FAQ – React**
   A JavaScript library for building user interfaces
 
@@ -317,7 +320,10 @@
 
 - **React Hooks Tutorial - RWieruch**
   > <https://www.robinwieruch.de/react-hooks>
-
+  
+ 
+ 
+  
 ## io-ts in TypeScript
 
 - **Decoding JSON with Typescript**
@@ -414,6 +420,8 @@
 - **Getting Started with SQL: A Hands-On Approach for Beginners by Thomas Nield**
   > <https://b-ok.asia/book/2661933/8eddd2>
 
+
+
 ## Next.js
 
 - **Building a Serverless JAMStack Todo app with Netlify, Gatsby, GraphQL, and FaunaDB**
@@ -424,11 +432,71 @@
 
 - **Introduction to Next.js 9**
   > <https://egghead.io/playlists/introduction-to-next-js-9-9c01>
+  
+- **Next Level Next.js tutorial** by Leigh Halliday 
+  This course is for anyone looking to take their app development with Next.js, React and GraphQL to the next level.
+  >https://courses.leighhalliday.com/courses/next-level-next-js
+  
+- **Next.jsTutorial by net ninja**
+  >https://youtube.com/watch?v=A63UxsQsEbU&feature=share
+
+- **Learn | Next.js**
+  Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build pre-rendered   
+  applications, static websites, and more.
+    >https://nextjs.org/learn/basics/create-nextjs-app
+    
+- **Masteringnextjs**
+  Learn Next.js – A free video course on React and Next.js.
+  Learn how to build static and server-rendered applications with Next.js and React.
+    > (https://masteringnextjs.com/?utm_source=assistant&utm_medium=CPC&utm_campaign=message)
+    
+## Security / Authentication
+
+- **React Security**
+  Forget about half-baked samples and tutorials that just cover the basics. Learn how to properly secure your React app for the       
+  real world.
+    >https://reactsecurity.io/
+    
+ - **Authentication Patterns for Next.js**
+  Learn how to add authentication with Next.js. The video covers custom React Hooks, protecting routes and redirecting on the 
+  server, and includes a variety of examples.
+    >https://youtube.com/watch?v=NSR_Y_rm_zU&feature=share
+  
+ - **Adding Authentication to Next.js (GitHub Connect, JWT + Prisma 2 Integration)** by Leigh Hallidy
+    >https://youtube.com/watch?v=3q4BtCzuryY&feature=share
+- **Building with Next.js and Prisma: Passwordless Authentication with next-auth**
+  In this live coding session, we are going to learn how to implement passwordless authentication mechanism with Next.js
+    >https://www.youtube.com/watch?v=GPBD3acOx_M
+    
+- **Client and Server Side Cookies in Next.js**
+  Let's learn how to set/remove cookies both in the browser but also on the server in Next.js. 
+  https://youtube.com/watch?v=w8n7Soz7khw&feature=share
+
 
 ## RedwoodJs
 
 - **Introduction to RedwoodJS: full-stack framework for JAMstack**
-  > <https://egghead.io/playlists/introduction-to-redwoodjs-full-stack-jamstack-framework-2b10>
+  > <https://egghead.io/playlists/introduction-to-## Security / Authentication
+
+- **React Security**
+  Forget about half-baked samples and tutorials that just cover the basics. Learn how to properly secure your React app for the       
+  real world.
+    >https://reactsecurity.io/
+    
+ - **Authentication Patterns for Next.js**
+  Learn how to add authentication with Next.js. The video covers custom React Hooks, protecting routes and redirecting on the 
+  server, and includes a variety of examples.
+    >https://youtube.com/watch?v=NSR_Y_rm_zU&feature=share
+  
+ - **Adding Authentication to Next.js (GitHub Connect, JWT + Prisma 2 Integration)** by Leigh Hallidy
+    >https://youtube.com/watch?v=3q4BtCzuryY&feature=share
+- **Building with Next.js and Prisma: Passwordless Authentication with next-auth**
+  In this live coding session, we are going to learn how to implement passwordless authentication mechanism with Next.js
+    >https://www.youtube.com/watch?v=GPBD3acOx_M
+    
+- **Client and Server Side Cookies in Next.js**
+  Let's learn how to set/remove cookies both in the browser but also on the server in Next.js. 
+  https://youtube.com/watch?v=w8n7Soz7khw&feature=shareredwoodjs-full-stack-jamstack-framework-2b10>
 
 ## Blitz.js
 
@@ -437,9 +505,10 @@
 
 ## Miscellaneous
 
-- **VS Code Top-Ten Pro Tips**
+- **Mastering Markdown** series by wesbos
+  >https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3
 
-  > <https://www.youtube.com/watch?v=u21W_tfPVrY&feature=share>
+- >https://assets.thoughtworks.com/assets/technology-radar-vol-23-en.pdf
 
 - **CodeSandbox: Online Code Editor and IDE for Rapid Web Development**
   CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster

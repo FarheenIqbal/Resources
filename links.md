@@ -359,7 +359,8 @@
 
 - **Decoding JSON ith Typescript**
   JSON decoders validate the JSON before it comes into our program. So if the data has an unexpected structure, we learn about it immediately. 
-      > <https://dev.to/joanllenas/decoding-json-with-typescript-1jjc>
+  
+  > <https://dev.to/joanllenas/decoding-json-with-typescript-1jjc>
 
 - **An intro to decoders
   Type-checking your boundaries** 

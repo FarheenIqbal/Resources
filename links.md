@@ -30,8 +30,24 @@
 
 - **Bulma CSS Tutorial Youtube**
   > <https://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a>
-
+  
+- **Tailwind CSS: From Zero to Production**
+    > <https://youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0>
+- **CSS-Tricks** 
+   Exploring the Complexities of Width and Height in CSS
+   > <https://css-tricks.com/exploring-the-complexities-of-width-and-height-in-css/>
+ - **We should ban margin from our React components. Hear me out.**
+   > <https://mxstbr.com/thoughts/margin/>
+ - **An Interactive Guide to CSS Transitions**  
+   > <https://www.joshwcomeau.com/animation/css-transitions/>
+ - **All The Videos in Layout Land - YouTube**
+   > <https://youtube.com/playlist?list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70>
+   
+ - **Videos on CSS Grid - YouTube**
+   > <https://youtube.com/playlist?list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1>
 ## JavaScript
+
+
 
 - **[BOOK] JavaScript for Kids: A Playful Introduction to Programming** by Nick Morgan
 
@@ -106,6 +122,11 @@
   Install Jest using [`yarn`]
   > <https://jestjs.io/docs/en/getting-started>
 
+- **Introduction to Cypress**
+  Learn how to get started with the popular automation tool Cypress with Marie Drake
+  > <https://www.ministryoftesting.com/dojo/courses/introduction-to-cypress>
+  
+  
 ## GitHub
 
 - **pervezfunctor/js-starter**
@@ -157,7 +178,10 @@
 - **Hello, World! | Grid.js**
   You can interact with the following editor! Grid.js is a table plugin written in TypeScript.
   > <https://gridjs.io/docs/examples/hello-world/>
-
+  
+- **React+TypeScript, with JetBrains IDEs? That three-part combination is the topic of this series**
+  > <https://youtube.com/watch?v=61L8AcmYTyM&feature=share>
+  
 ## Node.js
 
 - **Node.js and npm Tutorial: Installation and Usage**
@@ -219,7 +243,9 @@
 - **Introduction to Mock Service Worker**
 
   > <https://mswjs.io/docs/>
-
+- **React 2025 – Build applications from the future, today.**
+   Learn how to build and deploy a modern Jamstack application using the most popular open-source software.
+   > <https://react2025.com/#course-overview>
 - **React App Example - TODO App**
 
   > <http://todomvc.com/examples/react/#/>
@@ -321,14 +347,19 @@
 - **React Hooks Tutorial - RWieruch**
   > <https://www.robinwieruch.de/react-hooks>
   
+- **Understanding Rendering in React**
+  > <https://dev.to/teo_garcia/understanding-rendering-in-react-i5i?ck_subscriber_id=887761183>
  
- 
-  
+ - **How to use Firebase in React**
+   In this video we'll create an X's an O's game using Firebase in React and Next.js.
+   > <https://youtube.com/watch?v=P-XNZdKQUR0&feature=share>
+ - **Introducing a new Prisma Udemy course: End to End React with Prisma 2!**
+    > <https://youtube.com/watch?v=M6OXzTsCvOM&feature=share>
 ## io-ts in TypeScript
 
-- **Decoding JSON with Typescript**
+- **Decoding JSON ith Typescript**
   JSON decoders validate the JSON before it comes into our program. So if the data has an unexpected structure, we learn about it immediately. 
-      ><https://dev.to/joanllenas/decoding-json-with-typescript-1jjc>
+      > <https://dev.to/joanllenas/decoding-json-with-typescript-1jjc>
 
 - **An intro to decoders
   Type-checking your boundaries** 
@@ -450,6 +481,11 @@
   Learn how to build static and server-rendered applications with Next.js and React.
     > (https://masteringnextjs.com/?utm_source=assistant&utm_medium=CPC&utm_campaign=message)
     
+- **Leigh Halliday Next Level Next.js**
+  This course is for anyone looking to take their app development with Next.js, React and GraphQL to the next level.
+  > <https://courses.leighhalliday.com/courses/next-level-next-js>
+  
+
 ## Security / Authentication
 
 - **React Security**
@@ -472,7 +508,10 @@
   Let's learn how to set/remove cookies both in the browser but also on the server in Next.js. 
   https://youtube.com/watch?v=w8n7Soz7khw&feature=share
 
-
+- **Easily Add Firebase Auth to React**
+  Let's add Firebase Auth to a React app (Next.js) to keep those unsavoury characters out!
+  > <https://youtube.com/watch?v=KPdbVvBtwZw&feature=share>
+  
 ## RedwoodJs
 
 - **Introduction to RedwoodJS: full-stack framework for JAMstack**
@@ -502,6 +541,11 @@
 
 - **Getting Started with Blitz.js**
   > <https://egghead.io/playlists/getting-started-with-blitz-js-0585>
+
+## Apollo GraphQL
+
+- **Get started with Apollo**
+  > <https://odyssey.apollographql.com/lift-off-part1>
 
 ## Miscellaneous
 
